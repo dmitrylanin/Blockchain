@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Blockchain/task" />
+            <option value="$PROJECT_DIR$/Blockchain/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Blockchain/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Blockchain/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Blockchain/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Blockchain/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Blockchain/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/ASCII Art" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Collectors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Sort users" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Currying/A correct lambda expression" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Curried function" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Multifunctional mapper" />
+            <option value="$PROJECT_DIR$/Topics/Currying/String concatenation" />
+            <option value="$PROJECT_DIR$/Topics/Currying/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Decorator/Coffee Decorator" />
+            <option value="$PROJECT_DIR$/Topics/Decorator/Disadvantages" />
+            <option value="$PROJECT_DIR$/Topics/Decorator/Pizza Decorator" />
+            <option value="$PROJECT_DIR$/Topics/Decorator/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Decorator/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/Facade/Computer Facade" />
+            <option value="$PROJECT_DIR$/Topics/Facade/Definition" />
+            <option value="$PROJECT_DIR$/Topics/Facade/Log Search Facade" />
+            <option value="$PROJECT_DIR$/Topics/Facade/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/Disjunct all" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/The chain of responsibility" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/A sorted stream" />
+            <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Check for null" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Class type parameters" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/The first element" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/Grouping numbers" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/Splitting data with a collector" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/Teeing collector" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/Teeing collector features" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/The total sum of transaction by each account" />
+            <option value="$PROJECT_DIR$/Topics/Grouping collectors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Infinite streams/Generating cats" />
+            <option value="$PROJECT_DIR$/Topics/Infinite streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inner classes/A bow and a cat" />
+            <option value="$PROJECT_DIR$/Topics/Inner classes/New Inner class" />
+            <option value="$PROJECT_DIR$/Topics/Inner classes/Pumpkin and candle" />
+            <option value="$PROJECT_DIR$/Topics/Inner classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inner classes/Why do we need inner classes" />
+            <option value="$PROJECT_DIR$/Topics/Inner classes/Your vehicle" />
+            <option value="$PROJECT_DIR$/Topics/Instant/Java epoch" />
+            <option value="$PROJECT_DIR$/Topics/Instant/The Instant to a long" />
+            <option value="$PROJECT_DIR$/Topics/Instant/The ofWeek() method" />
+            <option value="$PROJECT_DIR$/Topics/Instant/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Map and flatMap/Flatten streams" />
+            <option value="$PROJECT_DIR$/Topics/Map and flatMap/Sorting the absolute values" />
+            <option value="$PROJECT_DIR$/Topics/Map and flatMap/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Map and flatMap/Triple" />
+            <option value="$PROJECT_DIR$/Topics/Memento/Classification" />
+            <option value="$PROJECT_DIR$/Topics/Memento/Downsides" />
+            <option value="$PROJECT_DIR$/Topics/Memento/Reference type" />
+            <option value="$PROJECT_DIR$/Topics/Memento/Roll back" />
+            <option value="$PROJECT_DIR$/Topics/Memento/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Memento/Undo and redo" />
+            <option value="$PROJECT_DIR$/Topics/Nested classes/Create class" />
+            <option value="$PROJECT_DIR$/Topics/Nested classes/Create prototype" />
+            <option value="$PROJECT_DIR$/Topics/Nested classes/Find min and max" />
+            <option value="$PROJECT_DIR$/Topics/Nested classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Avoiding exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Check an Optional value" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Create an Optional value" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Optional/What is Optional" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Fix the sorting order" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Getting the greater speedup" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Myths and facts" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Parallel reducing" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Prime numbers" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/The ordered sequence" />
+            <option value="$PROJECT_DIR$/Topics/Parallel streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Calculating factorials" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Reduce operations" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Reduction methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Bad singleton" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Complete a class" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Complete the eager singleton" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Criticism" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Printing data of a singleton" />
+            <option value="$PROJECT_DIR$/Topics/Singleton/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Html Parser" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Stack implementation" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Using deque" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Which brackets are balanced" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Accounts" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/An infinite numbers supplier" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Select correct statements" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Select suitable interfaces" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Ternary operator" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stream filtering/Bad words detecting" />
+            <option value="$PROJECT_DIR$/Topics/Stream filtering/Check if a number is prime" />
+            <option value="$PROJECT_DIR$/Topics/Stream filtering/Famous programmers" />
+            <option value="$PROJECT_DIR$/Topics/Stream filtering/Omitting long strings" />
+            <option value="$PROJECT_DIR$/Topics/Stream filtering/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/The order of execution" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/The total sum of canceled transactions" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/Using streams many times" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/Taking elements/Secret codes" />
+            <option value="$PROJECT_DIR$/Topics/Taking elements/Sorting and skipping numbers" />
+            <option value="$PROJECT_DIR$/Topics/Taking elements/The behavior of a method" />
+            <option value="$PROJECT_DIR$/Topics/Taking elements/The name of a method" />
+            <option value="$PROJECT_DIR$/Topics/Taking elements/The name of a method (1)" />
+            <option value="$PROJECT_DIR$/Topics/Taking elements/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/A subset of sorted set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Creating a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Output elements" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Strict superset" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/The most suitable set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type Bounds/Number holder" />
+            <option value="$PROJECT_DIR$/Topics/Type Bounds/Pets and boxes" />
+            <option value="$PROJECT_DIR$/Topics/Type Bounds/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

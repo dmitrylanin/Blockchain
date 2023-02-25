@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Instant-The_Instant_to_a_long" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Instant/The Instant to a long" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Blockchain" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Instant/The Instant to a long">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Instant/The Instant to a long/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Instant/The Instant to a long/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Instant/The Instant to a long/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
